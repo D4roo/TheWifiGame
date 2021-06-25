@@ -1,0 +1,10 @@
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\bin\Debug\WifiPasscodeGame.exe.config
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\bin\Debug\WifiPasscodeGame.exe
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\bin\Debug\WifiPasscodeGame.pdb
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.csprojAssemblyReference.cache
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.Form1.resources
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.Properties.Resources.resources
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.csproj.GenerateResource.cache
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.csproj.CoreCompileInputs.cache
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.exe
+C:\Temp\WifiPasscodeGame\WifiPasscodeGame\obj\Debug\WifiPasscodeGame.pdb
